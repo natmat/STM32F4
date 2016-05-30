@@ -4,3 +4,4 @@ First change on branch1.
 B1
 B2
 B3
+Adding final line.
